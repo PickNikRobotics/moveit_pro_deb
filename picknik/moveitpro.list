@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/picknik.gpg] https://picknikrobotics.github.io/moveit_pro_deb/ ./
