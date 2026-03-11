@@ -1,0 +1,6 @@
+[moveitpro]
+name=MoveIt Pro
+baseurl=https://picknikrobotics.github.io/moveit_pro_deb/picknik_rpm/
+enabled=1
+gpgcheck=1
+gpgkey=https://picknikrobotics.github.io/moveit_pro_deb/picknik_rpm/RPM-GPG-KEY-picknik
